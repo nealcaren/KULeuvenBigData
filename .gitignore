@@ -1,0 +1,12 @@
+# Folder view files
+.DS_Store
+
+#Python Crap
+*.pyc
+.ipynb_checkpoints
+
+
+#unfinished
+working/
+draft*
+Untitled*
