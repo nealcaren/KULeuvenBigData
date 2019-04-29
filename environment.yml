@@ -1,7 +1,6 @@
 name: osscabd_2019
 channels:
   - conda-forge
-  - damianavila82
 dependencies:
   - pandas
   - rise
@@ -13,7 +12,6 @@ dependencies:
     - docx2txt
     - pypdf2
     - afinn
-    - vaderSentiment 
+    - vaderSentiment
     - python-louvain
     - twarc
-
