@@ -1,5 +1,11 @@
 name: KULeuvenBigData
+channels:
+  - conda-forge
 dependencies:
   - pandas
+  - rise
+  - requests
   - anaconda
-  
+  - newspaper3k
+  - pip:
+    - requests-html
