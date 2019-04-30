@@ -3,10 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - rise
   - requests
-  - anaconda
   - newspaper3k
   - twython
+  - pip
   - pip:
     - requests-html
