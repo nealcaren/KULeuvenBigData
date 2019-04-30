@@ -7,5 +7,6 @@ dependencies:
   - requests
   - anaconda
   - newspaper3k
+  - twython
   - pip:
     - requests-html
