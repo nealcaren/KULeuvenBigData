@@ -6,5 +6,6 @@ dependencies:
   - requests
   - pip
   - matplotlib
+  - rise
   - pip:
     - requests-html
