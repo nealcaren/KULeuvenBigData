@@ -4,8 +4,7 @@ channels:
 dependencies:
   - pandas
   - requests
-  - newspaper3k
-  - twython
   - pip
+  - matplotlib
   - pip:
     - requests-html
