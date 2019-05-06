@@ -6,6 +6,8 @@ dependencies:
   - requests
   - pip
   - matplotlib
+  - scikit-learn
+  - seaborn
   - rise
   - pip:
     - requests-html
