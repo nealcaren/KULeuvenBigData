@@ -11,3 +11,5 @@ dependencies:
   - rise
   - pip:
     - requests-html
+    - afinn
+    - vaderSentiment
