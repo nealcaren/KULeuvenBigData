@@ -9,6 +9,8 @@ dependencies:
   - scikit-learn
   - seaborn
   - rise
+  - pyLDAvis
+  - spacy
   - pip:
     - requests-html
     - afinn
